@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-This section is under construction 🚧 it may take a while, so for now I'm just gonna:
+This section is under construction 🚧  it may take a while, so for now I'm just gonna:
 
 Timestamp: Apr 11th, 2021
 
