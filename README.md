@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**aka-emi/aka-emi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This section is under construction 🚧 it may take a while, so for now I'm just gonna:
 
-Here are some ideas to get you started:
+Timestamp: Apr 11th, 2021
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Plug my Twitter: [not_an_alt_emi](https://twitter.com/notanaltemi)
+
+And use some presets:
+
+- 👨‍💻 I’m currently working at @bugcrowd. Amazing stuff, check it out [bugcrowd.com](https://youtu.be/dQw4w9WgXcQ)
+- 🌱 I’m currently learning: How to build online presence and Requirements Analysis.
+- 👯 I’m looking to collaborate on: Rails, Elixir and Cloud-Native related projects.
+- 💬 Ask me about: My favorite pet animal.
+- ⚡ Fun fact: _Inosculation_; the act of merging trees, is a word which origin relies on what we understand today as: Kiss.
