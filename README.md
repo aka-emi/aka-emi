@@ -10,7 +10,7 @@ Plug my Twitter: [not_an_alt_emi](https://twitter.com/notanaltemi)
 
 And use some presets:
 
-- 👨‍💻 I’m currently working at @bugcrowd. Amazing stuff, check it out [bugcrowd.com](https://youtu.be/dQw4w9WgXcQ)
+- 👨‍💻 I’m currently working at Bugcrowd. Amazing stuff, check it out [bugcrowd.com](https://youtu.be/dQw4w9WgXcQ)
 - 🌱 I’m currently learning: How to build online presence and Requirements Analysis.
 - 👯 I’m looking to collaborate on: Rails, Elixir and Cloud-Native related projects.
 - 💬 Ask me about: My favorite pet animal.
